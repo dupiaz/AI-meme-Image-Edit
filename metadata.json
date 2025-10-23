@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Meme & Image Editor",
+  "description": "An AI-powered meme generator and image editor. Upload an image or use a template, then use the 'Magic Caption' button to get AI-suggested captions or type a prompt to edit the image directly using Gemini.",
+  "requestFramePermissions": []
+}
